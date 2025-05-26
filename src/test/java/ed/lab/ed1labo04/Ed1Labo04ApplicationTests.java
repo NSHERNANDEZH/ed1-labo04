@@ -11,3 +11,4 @@ class Ed1Labo04ApplicationTests {
     }
 
 }
+//GA
